@@ -1,2 +1,3 @@
 
-library(installr)
+library(tidyverse)
+library(dslabs)
